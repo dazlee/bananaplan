@@ -1,8 +1,26 @@
 <html>
 <head>
-<link rel="stylesheet" href="/stylesheets/style.css">
+<link rel="stylesheet" href="/stylesheets/main.css">
 </head>
 <body>
-	<h1>Banana Plan</h1>
+	<div class="top-banner">
+		<h2 class="logo">
+			Banana Plan
+		</h2>
+		<ul>
+			<li><a href="#">Products</a></li>
+		</ul>
+	</div>
+	<div class="content">
+		<div class="product">
+			<div class="product-pic">
+				<img src="images/phone.jpg"/>
+			</div>
+			<div class="description">
+				<h3 class="title">Music Runner</h3>
+				<p class="text">Coming soon..</p>
+			</div>
+		</div>
+	</div>
 </body>
 </html>

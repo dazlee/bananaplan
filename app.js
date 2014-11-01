@@ -4,6 +4,7 @@
  */
 var express = require('express'),
     routes = require('./routes'),
+    policy = require('./routes/policy'),
     http = require('http'),
     path = require('path'),
     cons = require('consolidate'),
@@ -31,5 +32,6 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index);
+app.use('/policy', policy);
 
 app.listen(3000);

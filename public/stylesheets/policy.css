@@ -1,3 +1,10 @@
+.top-banner {
+	background-color: #535353;
+}
+.top-banner ul li:hover{
+	background-color: #535353;
+
+}
 .product {
 	margin-top: 50px;
 	margin-bottom: 100px;

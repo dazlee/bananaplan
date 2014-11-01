@@ -10,7 +10,7 @@
 			Banana Plan
 		</h2>
 		<ul>
-			<li><a href="#">Policy</a></li>
+			<li style="color:white;">Policy</li>
 		</ul>
 	</div>
 	<div class="content">

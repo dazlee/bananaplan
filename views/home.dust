@@ -53,8 +53,8 @@
 					</button>
 					<a class="navbar-brand" href="#intro">
 	<!--					<div data-0="background-image:!url(img/logo_white.png);" data-90="background-image:!url(img/logo.png)"></div>-->
-						<!--img src="img/logo.png" alt="" class="img-responsive"-->
-						Banana Plan
+						<img src="img/bird.png" alt="" class="img-responsive">
+
 					</a>
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse">

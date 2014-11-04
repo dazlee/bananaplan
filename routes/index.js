@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Banana Plan' });
+  res.render('home', { title: 'Banana Plan' });
 };
